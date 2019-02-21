@@ -16,3 +16,8 @@
 //     var randomColor = bgColors[Math.floor(Math.random()*bgColors.length)];
 //     $("html").css("background-color", "rgb(" + randomColor + ")");
 //   };
+
+$(document).ready(function(){
+    M.AutoInit();
+    $('.carousel').carousel();
+  });
