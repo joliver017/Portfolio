@@ -2,11 +2,19 @@
     opacity: 0.5;
 }
 
-/* #page_wrap {
-	width: 600px;
-	z-index: 1;
-	margin: 10px auto;
-} */
+.name_text {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 34px;
+}
+
+.top-info, .header {
+    font-family: 'Staatliches', cursive;
+}
+
+.text {
+    font-family: 'Cardo', serif;
+    font-size: 22px;
+}
 
 #bottom_fade {
 	width: 100%;
