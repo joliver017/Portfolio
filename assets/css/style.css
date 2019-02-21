@@ -2,12 +2,12 @@
     opacity: 0.5;
 }
 
-.name_text {
+/* .name_text {
     font-family: 'Permanent Marker', cursive;
     font-size: 34px;
-}
+} */
 
-.top-info, .header {
+.top-info, .name-text, .header {
     font-family: 'Staatliches', cursive;
 }
 
