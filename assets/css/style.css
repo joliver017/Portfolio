@@ -20,6 +20,11 @@ body, html {
     font-size: 22px;
 }
 
+.carousel {
+    /* margin-top: 50px; */
+    height: 200px;
+}
+
 #bottom_fade {
 	width: 100%;
 	height: 200px;
