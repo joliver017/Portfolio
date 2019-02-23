@@ -29,3 +29,6 @@ body, html {
 	background: url("../images/bottom-fade.png") bottom center;
 }
 
+#to-top {
+    z-index: 2;
+}
